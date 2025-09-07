@@ -1,7 +1,5 @@
 # Script-para-Converter-Word-para-PDF
 
-#Converter arquivo Word para PDF
-
 #!/bin/bash
 
 # Script para converter arquivos Word (.docx) para PDF
@@ -99,3 +97,5 @@ echo "Arquivos processados: ${total_files}"
 echo "Arquivos convertidos: ${converted_files}"
 echo "Arquivos pulados: ${skipped_files}"
 echo "Pasta de destino: ${pdf_path}"
+
+
