@@ -2,7 +2,6 @@
 
 #!/bin/bash
 
-# Script para converter arquivos Word (.docx) para PDF
 # Requer: libreoffice ou unoconv instalado
 
 # Função para verificar se um comando existe
